@@ -2,6 +2,7 @@
 // tung keng da sua 
 // hoang anh da sua
 // hoang anh sua lan 3
+// truong nhom merge nhanh master
 session_start();
 include "model/pdo.php";
 include "model/sanpham.php";
