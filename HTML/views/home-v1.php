@@ -1,3 +1,5 @@
+//test
+
 <?php
 require_once "header.php";
 ?>
@@ -9,7 +11,6 @@ require_once "header.php";
           <main id="main" class="site-main">
             <div class="home-v1-slider home-slider">
               <div class="slider-1" style="background-image: url(../assets/images/slider/banner3.jpg);">
-                <!-- <img src="../assets/images/slider/banner1.jpg" alt=""> -->
                 <div class="caption" style="margin-top: 150px;">
                   <div class="title" style="font-size: 150%; font-style: italic;">Thoả sức chụp ảnh, quay video chuyên nghiệp - Camera đến 200MP, chế độ chụp đêm cải tiến, bộ xử lí ảnh thông minh</div>
                   <div class="sub-title">Chiến game bùng nổ - chip Snapdragon 8 Gen 2 8 nhân tăng tốc độ xử lí, màn hình 120Hz, pin 5.000mAh.</div>
