@@ -1,5 +1,4 @@
 <?php
-//tungkeng hoàn thiện 
 session_start();
 include "model/pdo.php";
 include "model/sanpham.php";
