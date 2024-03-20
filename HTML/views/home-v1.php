@@ -955,7 +955,6 @@ require_once "header.php";
                                   <a class="button add_to_cart_button" href="cart.php" rel="nofollow">Thêm Vào Giỏ Hàng</a>
                                   <a class="add-to-compare-link" href="compare.php">So Sánh Với Sản Phẩm Khác</a>
                                 </div>
-                              </div>
                               <!-- /.product-outer -->
                               <div class="product">
                                 <div class="yith-wcwl-add-to-wishlist">
